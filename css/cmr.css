@@ -1,0 +1,26 @@
+/* Fonts */
+
+.roboto {
+	font-family: 'Roboto', sans-serif;
+	font-weight: 400; 
+}
+
+.roboto-thin {
+	font-family: 'Roboto', sans-serif;
+	font-weight: 200; 
+}
+
+.roboto-light {
+	font-family: 'Roboto', sans-serif;
+	font-weight: 300; 
+}
+
+.roboto-medium {
+	font-family: 'Roboto', sans-serif;
+	font-weight: 500; 
+}
+
+.mail {
+	font-size: 20px;
+	margin-left: 5px;
+}
